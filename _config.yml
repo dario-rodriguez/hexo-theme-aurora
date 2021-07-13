@@ -107,7 +107,7 @@ gitalk:
   clientSecret: ''
   repo: 'dev-blog-comments'
   owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  admin: []
   id: uid
   language: en
   distractionFreeMode: true

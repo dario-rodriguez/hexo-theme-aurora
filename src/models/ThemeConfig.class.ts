@@ -75,7 +75,8 @@ export class ThemeMenu implements ObMenu {
       path: '/',
       i18n: {
         cn: '首页',
-        en: 'Home'
+        en: 'Home',
+        es: 'Inicio'
       }
     })
   }
@@ -92,7 +93,8 @@ export class ThemeMenu implements ObMenu {
         path: '/about',
         i18n: {
           cn: '关于',
-          en: 'About'
+          en: 'About',
+          es: 'Sobre mi'
         }
       },
       Archives: {
@@ -100,7 +102,8 @@ export class ThemeMenu implements ObMenu {
         path: '/archives',
         i18n: {
           cn: '归档',
-          en: 'Archives'
+          en: 'Archives',
+          es: 'Archivos'
         }
       },
       Tags: {
@@ -108,7 +111,8 @@ export class ThemeMenu implements ObMenu {
         path: '/tags',
         i18n: {
           cn: '标签',
-          en: 'Tags'
+          en: 'Tags',
+          es: 'Tags'
         }
       }
     }
