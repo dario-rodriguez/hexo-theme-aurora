@@ -1,0 +1,74 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "about": "Sobre mi",
+    "archives": "Archivos",
+    "categories": "Categorias",
+    "tags": "Tags",
+    "post": "Articulo",
+    "search": "Busqueda",
+    "message-board": "Panel de mensajes",
+    "not-found": "Pagina no encontrada"
+  },
+  "home": {
+    "recommended": "Articulos Destacados"
+  },
+  "titles": {
+    "articles": "Articulos",
+    "about": "Sobre mi",
+    "category_list": "Categorias",
+    "tag_list": "Tags",
+    "toc": "Tabla de Contenidos",
+    "comment": "Comentarios",
+    "recent_comment": "Comentarios Recientes"
+  },
+  "settings": {
+    "months": [
+      "en",
+      "febr",
+      "mzo",
+      "abr",
+      "my",
+      "jun",
+      "jul",
+      "agt",
+      "sept",
+      "oct",
+      "nov",
+      "dic"
+    ],
+    "articles": "Articulos",
+    "categories": "Categorias",
+    "tags": "Tags",
+    "words": "Palabras",
+    "visitor_count": "Contador visitantes total",
+    "visit_count": "Contador visitas total",
+    "button-all": "Todos",
+    "paginator": {
+      "newer": "Reciente",
+      "older": "Antiguo",
+      "prev": "Anterior",
+      "next": "Siguiente"
+    },
+    "more-tags": "Ver más",
+    "admin-user": "Propietario",
+    "shared-on": "compartido el",
+    "recently-search": "Buscado recientemente",
+    "search-result": "Encontrado [total] resultados",
+    "no-recent-search": "No tienes buscadas recientes.",
+    "no-search-result": "No se encontraron resultados.",
+    "cmd-to-select": "para seleccionar",
+    "cmd-to-navigate": "para navegar",
+    "cmd-to-close": "para cerrar",
+    "searched-by": "Buscado por",
+    "tips-back-to-top": "Ir al principio",
+    "tips-open-menu": "Abrir menu",
+    "tips-back-to-home": "Ir al inicio",
+    "tips-open-search": "Abrir busqueda",
+    "default-category": "Articulo",
+    "default-tag": "no soportado",
+    "empty-tag": "Actualmente no se han encontrado tags.",
+    "pinned": "Pinned",
+    "featured": "Destacado"
+  }
+}

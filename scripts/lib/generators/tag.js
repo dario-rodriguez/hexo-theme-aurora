@@ -34,7 +34,7 @@ class TagGenerator {
             slug: item.slug,
             count: item.posts.length,
             path: 'api/tags/' + item.slug + '.json',
-            postlist: item.posts.map((post) => {
+            postlist: item.posts.map(post => {
               return postListMapper(post, configs)
             })
           }

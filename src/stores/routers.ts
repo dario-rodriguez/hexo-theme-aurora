@@ -3,10 +3,10 @@ import { routersMap } from '@/router'
 
 function routes(): { path: string; name: string }[] {
   return routersMap
-    .filter((route) => {
+    .filter(route => {
       return !route.hidden
     })
-    .map((route) => {
+    .map(route => {
       return {
         path: route.path,
         name: route.name ? route.name : ''

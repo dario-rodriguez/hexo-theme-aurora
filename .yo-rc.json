@@ -10,10 +10,7 @@
       "version": "2.0.0",
       "author": "TriDiamond <tridiamond6@gmail.com>",
       "license": "MIT",
-      "addons": [
-        "svg",
-        "api"
-      ]
+      "addons": ["svg", "api"]
     }
   }
 }
