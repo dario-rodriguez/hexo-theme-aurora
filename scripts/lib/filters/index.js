@@ -4,6 +4,12 @@ const QUOTE_TYPES = ['tip', 'warning', 'danger', 'details']
 const TAG_REGEX = /^<\/?([ul|ol|p]+)>/g
 const BLOCKQUOTE_REGEX = /<blockquote>\n([\s\S]*?)\n<\/blockquote>/gm
 const QUOTE_LANG = {
+  es: {
+    tip: 'TIP',
+    warning: 'WARNING',
+    danger: 'WARNING',
+    details: 'Detalles'
+  },
   en: {
     tip: 'TIP',
     warning: 'WARNING',

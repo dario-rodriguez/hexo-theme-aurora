@@ -69,6 +69,7 @@
     "default-tag": "unsorted",
     "empty-tag": "Current no tags were found.",
     "pinned": "Pinned",
-    "featured": "Featured"
+    "featured": "Featured",
+    "cookies": "Cookies configuration"
   }
 }
