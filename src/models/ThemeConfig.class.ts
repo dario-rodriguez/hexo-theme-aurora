@@ -90,7 +90,7 @@ export class ThemeMenu implements ObMenu {
     const extract: GeneralOptions = {
       About: {
         name: 'About',
-        path: '/about',
+        path: 'https://www.getmanfred.com/es/perfil/dariorodriguez',
         i18n: {
           cn: '关于',
           en: 'About',
